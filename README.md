@@ -2,6 +2,7 @@
 
 `test-fuzz` is a Cargo subcommand and a collection of Rust macros to automate certain tasks related to fuzzing with [`afl.rs`], including:
 
+- This is a test.
 - generating a fuzzing corpus
 - implementing a fuzzing harness
 
